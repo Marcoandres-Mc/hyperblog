@@ -15,12 +15,18 @@ header{
 }
 .siu2{
     display: inline-block;
-    width: 300px;
+    width: 400px;
     height: 70px;
-    background-color: blue;
+    background-color: yellow;
 }
 .siu3{
     width: 300px;
     height: 70px;
     background-color: blueviolet;
+}
+.siu4{
+    margin: 10px 0 0 0;
+    width: 700px;
+    height: 70px;
+    background-color: skyblue;
 }
